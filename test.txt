@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 test tstststststststs
+=======
+test testing ssssss
+>>>>>>> 1stBranch
 test12
